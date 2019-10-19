@@ -1,0 +1,12 @@
+name: simulador1
+title: simulador1
+username:
+account: bufus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1352330
+bundleId: 2515453
+url: https://bufus.shinyapps.io/simulador1/
+when: 1571516293.32869
+asMultiple: FALSE
+asStatic: FALSE
